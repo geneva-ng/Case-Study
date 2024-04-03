@@ -14,7 +14,7 @@ Load the “build” directory as a [chrome extension](https://bashvlas.com/blog
 
 
 ## BUILDING A VECTOR DATABASE
-- In `build_database.py` scroll to `main()` and set `category_baseURL`. Acceptable URLs for this field include any of the links found on the Products page from PartSelect. Select a link that looks like these:
+- In `build_database.py` scroll to `main()` and set `category_baseURL`. Acceptable URLs for this field include any of the links found on the Products page from PartSelect. Select a link that looks like these (or is one of these):
 
   - https://www.partselect.com/Dishwasher-Parts.htm
   - https://www.partselect.com/Refrigerator-Parts.htm
