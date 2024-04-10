@@ -7,7 +7,7 @@ Customer-facing chatbot that provides users with product information pertaining 
 ![overview](/screenshots/5.png)
 ![overview](/screenshots/7.png)
 ![overview](/screenshots/8.png)
-For the complete slide deck, check out `slides`.
+For the complete slide deck, check out `LLM Slides`.
 
 ## FRONTEND SETUP
 Load the “build” directory as a [chrome extension](https://bashvlas.com/blog/install-chrome-extension-in-developer-mode) to view the chat interface right from your Chrome browser’s side panel. 
